@@ -28,5 +28,5 @@ go run main.go
 
 ## Contact
 
-Tweet me - [@oasiscse](https://twitter.com/oasiscse)  
+Tweet me - [@ihumaunkabir](https://twitter.com/ihumaunkabir)  
 Find me on [ihumaun.com](http://ihumaun.com)
